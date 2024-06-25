@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|e:\\pruebas vs\\fernando - de la cruz\\xyzboutiqueapi\\xyzboutiqueapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|solutionrelative:xyzboutiqueapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|e:\\pruebas vs\\fernando - de la cruz\\xyzboutiqueapi\\xyzboutiqueapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|solutionrelative:xyzboutiqueapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|e:\\pruebas vs\\fernando - de la cruz\\xyzboutiqueapi\\xyzboutiqueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|solutionrelative:xyzboutiqueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|e:\\pruebas vs\\fernando - de la cruz\\xyzboutiqueapi\\xyzboutiqueapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|solutionrelative:xyzboutiqueapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|e:\\pruebas vs\\fernando - de la cruz\\xyzboutiqueapi\\xyzboutiqueapi\\viewmodels\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|solutionrelative:xyzboutiqueapi\\viewmodels\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|e:\\pruebas vs\\fernando - de la cruz\\xyzboutiqueapi\\xyzboutiqueapi\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|solutionrelative:xyzboutiqueapi\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|e:\\pruebas vs\\fernando - de la cruz\\xyzboutiqueapi\\xyzboutiqueapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|solutionrelative:xyzboutiqueapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|e:\\pruebas vs\\fernando - de la cruz\\xyzboutiqueapi\\xyzboutiqueapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6A2BD-AEF5-436B-AAB5-F71AB08FC058}|XYZBoutiqueApi\\XYZBoutiqueApi.csproj|solutionrelative:xyzboutiqueapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\ViewModels\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "XYZBoutiqueApi\\ViewModels\\PedidoDto.cs",
+              "ToolTip": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\ViewModels\\PedidoDto.cs",
+              "RelativeToolTip": "XYZBoutiqueApi\\ViewModels\\PedidoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:56:04.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "XYZBoutiqueApi\\Controllers\\PedidosController.cs",
+              "ToolTip": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "XYZBoutiqueApi\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:28:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "XYZBoutiqueApi\\Models\\Pedido.cs",
+              "ToolTip": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Models\\Pedido.cs",
+              "RelativeToolTip": "XYZBoutiqueApi\\Models\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:27:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Program.cs",
+              "RelativeDocumentMoniker": "XYZBoutiqueApi\\Program.cs",
+              "ToolTip": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Program.cs",
+              "RelativeToolTip": "XYZBoutiqueApi\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:35:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "XYZBoutiqueApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "XYZBoutiqueApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:39:15.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\appsettings.json",
+              "RelativeDocumentMoniker": "XYZBoutiqueApi\\appsettings.json",
+              "ToolTip": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\appsettings.json",
+              "RelativeToolTip": "XYZBoutiqueApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T03:22:02.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "XYZBoutiqueApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "XYZBoutiqueApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:14:01.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Startup.cs",
+              "RelativeDocumentMoniker": "XYZBoutiqueApi\\Startup.cs",
+              "ToolTip": "E:\\Pruebas VS\\Fernando - De la cruz\\XYZBoutiqueApi\\XYZBoutiqueApi\\Startup.cs",
+              "RelativeToolTip": "XYZBoutiqueApi\\Startup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:54:16.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
